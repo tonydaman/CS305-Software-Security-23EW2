@@ -24,4 +24,5 @@ All the resources given in each model are a must for learning along the way. The
 The first thing would be running a dependency check on their software and then showing how many vulnerabilities a software can have and what versions would be needed to update to. Maybe even having to look at their vendor's page on what else could be done if version updating is not an immediate solution. Having documentation of this process along the way with updates included and comments in the code.  
 
 Reference
+
 Manico, Jim, and August Detlefsen. “Iron-Clad Java: Building Secure Web Applications.” O’Reilly Online Learning, McGraw Hill Computing, https://learning.oreilly.com/library/view/iron-clad-java/9780071835886/ch06.html#ch06lev1sec16
